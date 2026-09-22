@@ -1,0 +1,31 @@
+@font-face {
+	font-family: "Ye Olde";
+	src: url("myfont.otf") format("opentype")
+}
+
+body{
+	background-color: lavenderblush
+}
+h1{
+	font-family: "Ye Olde";
+	font-size: 40px;
+	color: hotpink;
+	line-height:5
+		0px;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+}
+	
+p{
+		font-family:sans-serif;
+		
+	}
+	.donkey{
+		color: white;
+		background-color: hotpink;
+		font-size: 24px
+	}
+
+blockquote{
+	font-family: fantasy;
+}
